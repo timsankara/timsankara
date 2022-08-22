@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning and perfecting ...
   -  Rust Programming Language
 - 🤝 I’m looking to collaborate on ...
-  - Any cool programming project
+  - Blockchain projects
+  - AI & ML Projects
 - 📫 How to reach me ...
   - tim.sankara@gmail.com
   - chimpy.the.dev@outlook.com
