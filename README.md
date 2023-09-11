@@ -1,14 +1,9 @@
 - 👋 Hi, I’m @timsankara
-- 👀 I’m interested in ...
+- 👀 I’m comfortable working with:
   - JavaScript (React, Node)
-  - Python
+  - Python (ML intensive worklaods)
+  - Rust (Entire eco-system)
   - Solidity
-  - Rust
-- 🌱 I’m currently learning and perfecting ...
-  -  Rust Programming Language
-- 🤝 I’m looking to collaborate on ...
-  - Blockchain projects
-  - AI & ML Projects
 - 📫 How to reach me ...
   - tim.sankara@gmail.com
   - chimpy.the.dev@outlook.com
