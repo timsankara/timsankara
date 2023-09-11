@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timsankara
 - 👀 I’m comfortable working with:
   - JavaScript (React, Node)
-  - Python (ML intensive worklaods)
+  - Python (ML intensive workloads)
   - Rust (Entire eco-system)
   - Solidity
 - 📫 How to reach me ...
