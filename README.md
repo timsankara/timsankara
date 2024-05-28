@@ -1,32 +1,41 @@
-# 👋 Hi there! I'm Tim Sankara, a Research Engineer 🚀
+# Tim Sankara: AI Research Engineer
 
-Welcome to my coding space!
+## About Me
 
-## 👀 Technologies I Work With:
+I am Tim Sankara, a Research Engineer focused on AI safety and capabilities. My work involves deeply understanding AI research and finding the best ways to translate this research into practical, technical implementations. I am particularly passionate about creating tooling for research to enhance productivity and facilitate advancements in AI safety.
 
-- 💻 JavaScript (React, Node)
-- 🐍 Python (ML intensive workloads)
-- 🦀 Rust (Full eco-system)
-- 💎 Solidity
+## Technologies I Work With
 
-## 🚀 Current Focus:
+- Python (ML and data intensive workloads)
+- Rust (Full ecosystem)
+- JavaScript (React, Node)
+- Go (High-performance systems)
+- Cloud (AWS, Azure)
 
-🧠 **Technical AI Research & Engineering** at [Rookih.com](https://www.rookih.com)
+## Current Focus
 
-🔍 Delving into the mysteries of AI! As a Research Engineer, I translate cutting-edge research papers into functional code. From exploring safety aspects to evaluating capabilities, I bring theoretical concepts into the practical world.
+### Technical AI Engineering at [Rookih.com](https://www.rookih.com)
 
-## 📬 How to Reach Me:
+My work revolves around creating tooling for AI research with the aim of enhancing researcher productivity and streamlining processes. This involves deeply understanding AI research and translating theoretical concepts into practical, technical implementations. The core of my work lies at the intersection of AI capabilities and AI safety, ensuring that advancements in AI are both powerful and secure.
 
-📧 Email: 
-   - tim.sankara@gmail.com
-   - chimpy.the.dev@outlook.com
+## Collaboration
 
-💬 Open to meetings and offering advice on any tech-related topics! Don't hesitate to reach out.
+### Partnering with Researchers
 
-> Code like nobody's watching, traverse the pathways of creativity, and remember: diversity is the strength of every ecosystem! 👨‍💻
+I am actively looking to collaborate with researchers to improve their productivity and streamline their work processes. My focus is on building high-quality tools that facilitate research and make complex tasks more manageable.
 
+**If you are a researcher working on AI safety and need support in developing tools or translating theoretical concepts into practical applications, I would be delighted to work with you.**
 
+Anyone interested in collaborating or seeking assistance is encouraged to reach out.
+
+## Contact Information
+
+- Email: 
+  - tim.sankara@gmail.com
+  - chimpy.the.dev@outlook.com
+
+I am available for meetings and happy to provide advice on any tech-related topics.
 <!---
-timsankara/timsankara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+timsankara/timsankara is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
