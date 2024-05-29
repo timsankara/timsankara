@@ -10,6 +10,7 @@ I am Tim Sankara, a Research Engineer focused on AI safety and capabilities. My 
 - Rust (Full ecosystem)
 - JavaScript (React, Node)
 - Go (High-performance systems)
+- Java (Scalable back-end systems and large-scale data processing)
 - Cloud (AWS, Azure)
 
 ## Current Focus
