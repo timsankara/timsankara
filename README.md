@@ -1,4 +1,3 @@
-```markdown
 # Tim Sankara: Software Engineer & AI Enthusiast
 
 ## About Me
@@ -35,4 +34,3 @@ I am open to new roles and collaborations to help release safe and innovative AI
   - chimpy.the.dev@outlook.com
 
 I am available for meetings and happy to provide advice on tech-related topics. Let's connect and create something amazing!
-```
