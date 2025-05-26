@@ -1,16 +1,16 @@
----
+# Hi, I’m Tim 👋  
+I build things with code (and will do it for food).
 
-# Tim Sankara: Software Engineer & AI Enthusiast  
+## 👨‍💻 About Me  
+- Software Engineer with 8+ years of experience  
+- Relearning Rust — it’s brutal, but I like it  
+- Big fan of real-world, working products over perfect prototypes  
+- Previously built AI tools at [Rookih.com](https://www.rookih.com)
 
-## About Me  
-I am a Software Engineer with 8+ years of experience, specializing in AI tooling and safe, impactful tech. Currently, I build technical tools for AI research at [Rookih.com](https://www.rookih.com), bridging theory and practice to enhance productivity and safety in AI.  
+## 🧰 Tech Stack  
+- **Languages:** Rust (WIP), Python, JavaScript (React, Node.js)  
+- **Cloud:** GCP, AWS, Azure, Vercel  
+- **Focus Areas:** AI tooling, backend systems, and shipping fast
 
-## Skills  
-- **Programming:** Python, Rust, JavaScript (React, Node.js)  
-- **Cloud:** AWS, Azure, GCP, Vercel, Heroku  
-- **AI Expertise:** Modeling, data analysis, safety-first solutions  
-
-## Let’s Connect  
-Email: tim.sankara@gmail.com | chimpy.the.dev@outlook.com  
-
----  
+## 📫 Let’s Talk  
+tim.sankara@gmail.com | chimpy.the.dev@outlook.com
