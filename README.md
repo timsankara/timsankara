@@ -5,7 +5,7 @@ Full-stack engineer who builds tools that help people make high-stakes decisions
 
 ## 👨‍💻 About Me
 
-- **8+ years** building and shipping web products end to end: database schema, backend, frontend, deployment, and on-call
+- **9+ years** building and shipping web products end to end: database schema, backend, frontend, deployment, and on-call
 - **Technical Lead at [AIRE (AI Risk Explorer)](#)** — a nonprofit platform that monitors real-world AI risk across cyber, biological, loss-of-control, and manipulation domains. I joined and soon became the sole engineer and owned the whole stack.
 - Background in AI safety: AI Safety Fundamentals (Alignment), SPAR contributor, and founder of an Effective Altruism chapter at a Kenyan university
 - I care about working software in the hands of real users more than perfect prototypes — but I'm rigorous where correctness matters
